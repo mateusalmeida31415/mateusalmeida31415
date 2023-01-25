@@ -2,7 +2,7 @@
 
 <div>
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusalmeida31415&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusalmeida31415&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalmeida31415&layout=compact&theme=dracula" />
